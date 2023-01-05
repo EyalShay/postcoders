@@ -23,3 +23,15 @@ body {
   min-height: 100vh;
 }
 
+#card {
+  padding: 1rem;
+  margin: 1rem;
+}
+
+input {
+  padding: 1rem;
+}
+
+button {
+  padding: 1rem;
+}
